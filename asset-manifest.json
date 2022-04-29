@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Exlautis/React-portfolio/static/css/main.0346a287.css",
+    "main.js": "/Exlautis/React-portfolio/static/js/main.5530b871.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Exlautis/React-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Weather-Dashboard.png": "/Exlautis/React-portfolio/static/media/Weather-Dashboard.b5828f99ee923377ee51.png",
+    "static/media/Budget-Tracker.png": "/Exlautis/React-portfolio/static/media/Budget-Tracker.0899341a2fb39f74a99f.png",
+    "static/media/Taskmaster.png": "/Exlautis/React-portfolio/static/media/Taskmaster.2aa9dce1129e0973d65e.png",
+    "static/media/PasswordGen.png": "/Exlautis/React-portfolio/static/media/PasswordGen.a7f809329044dd198b02.png",
+    "static/media/NoteTaker.png": "/Exlautis/React-portfolio/static/media/NoteTaker.974439ed9d49f4d1d311.png",
+    "static/media/CodeQuiz.jpg": "/Exlautis/React-portfolio/static/media/CodeQuiz.1a98aafface8c409d95a.jpg",
+    "static/media/XavyrSelfie.JPG": "/Exlautis/React-portfolio/static/media/XavyrSelfie.949188110559c182e6f8.JPG",
+    "static/media/blueBackground.webp": "/Exlautis/React-portfolio/static/media/blueBackground.eb1e273ad17ef9a54fff.webp",
+    "index.html": "/Exlautis/React-portfolio/index.html",
+    "main.0346a287.css.map": "/Exlautis/React-portfolio/static/css/main.0346a287.css.map",
+    "main.5530b871.js.map": "/Exlautis/React-portfolio/static/js/main.5530b871.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Exlautis/React-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0346a287.css",
+    "static/js/main.5530b871.js"
+  ]
+}
