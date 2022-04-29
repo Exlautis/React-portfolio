@@ -1,0 +1,33 @@
+[
+    
+    {
+        "id": 3,
+        "name": "Password Generator",
+        "description": "Creates Random passwords",
+        "technology": "HTML/JS",
+        "url": "https://exlautis.github.io/Password-generator/",
+        "github": "https://github.com/Exlautis/Password-generator",
+        "image": "pic4"
+
+    },
+    {
+        "id": 4,
+        "name": "Note Taker",
+        "description": "A app that lets you compile notes",
+        "technology": "HTML/JS/CSS",
+        "url": " https://exlautis.github.io/Note-Taker-challenge/",
+        "github": "https://github.com/Exlautis/Note-Taker-challenge",
+        "image": "pic5"
+
+    },
+    {
+        "id": 5,
+        "name": "Taskmaster-Pro",
+        "description": "A app that keeps your tasks organized",
+        "technology": "HTML/JS/CSS",
+        "url": "https://exlautis.github.io/taskmaster-pro/",
+        "github": "https://github.com/Exlautis/taskmaster-pro",
+        "image": "pic6"
+
+    }
+]
